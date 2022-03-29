@@ -1,1 +1,1 @@
-# runner.
+#alterações são permitidas e recomendadas
